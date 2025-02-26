@@ -8,4 +8,4 @@ Bienvenido a mi perfil de GitHub. Soy un Data Engineer apasionado por la tecnolo
 
 ## Contacto
 - Correo: ljoecordoba@gmail.com
-- LinkedIn: [Luciano LinkedIn]([url-de-linkedin](https://www.linkedin.com/in/luciano-c%C3%B3rdoba-b01a05100/))
+- LinkedIn: [Luciano LinkedIn]([url-de-linkedin](https://www.linkedin.com/in/luciano-c%C3%B3rdoba-b01a05100/)
